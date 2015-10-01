@@ -6,8 +6,8 @@ RPC Port: 49698
 P2P Port: 49697
 
 Algorithm: X15 POW/POS
-Ticker: FIRE
-Max PoW Coins: ~100,000 FIRE
+Ticker: LARK
+Max PoW Coins: ~100,000 
 PoS Starts on Block 4000 ~3-4 days
 PoS 1% Annual Interest
 
